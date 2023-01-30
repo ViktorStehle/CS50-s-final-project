@@ -8,11 +8,10 @@
 This is my final project for the CS50's Introduction to Computer Science
 
 #### What you will find in this README
-The idea
-Rules and organization
-How to start
-Explanation of the Elements
-Thank you
+The idea,
+rules and organization,
+how to start and
+explanation of the Elements
 
 # The idea
 While listening to this seminar for LÖVE and LUA and thinking about the CS50 classes, I very quickly got an idea of ​​where to go and what to do. The seminar helped me a lot to understand how to focus on the core and later on the extra (the landmines of game programming). Already, during the seminar, I decided on rules and guidelines for myself and my final project.
