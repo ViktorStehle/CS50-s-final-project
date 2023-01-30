@@ -1,5 +1,8 @@
 # CS50 computer science final project: Run Ghosty
 #### Video Demo: https://www.youtube.com/watch?v=9m_efardPUM
+
+![Screenshot_20230130_022842](https://user-images.githubusercontent.com/106766191/215550303-efb8038d-1a1b-4555-80db-bc727e251ddc.png)
+
 #### Description: Run Ghosty is my first platformer demo. You are a little ghost trying to get out of the maze with only 3 lives. Throughout the maze, Ghosty will find various tasks to solve, such as dodging enemies, jumping over obstacles and small puzzles. It's your job as a player to make sure Ghosty finds his way out.
 
 This is my final project for the CS50's Introduction to Computer Science
