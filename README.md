@@ -21,13 +21,13 @@ While listening to this seminar for LÖVE and LUA and thinking about the CS50 cl
 2. Time management
 3. Focus on the core
 
-1. Create a prototype
+#### 1. Create a prototype
 I came up with the idea of ​​a game very quickly. I didn't want to depend too much on frameworks, so I decided to focus more on problem solving and understanding each element myself. The category I chose was survival. LÖVE has some incredible tutorials to get you started if you want to learn the language. Sheepolution gave me a very detailed tutorial about LOVE and I've used it quite a bit to solve problems I'm encountering.
 
-2. Time management
+#### 2. Time management
 Giving myself a 2-week-limit of working and studying was quite a task. Make a small progress each day. Having a small goal set for each day to not waste time.
 
-3. Focusing on the core of the game was probably the most important part in getting things done fairly quick. I was distracted quite often and having my 3 rules written on a piece of paper next to me was very helpful in solving small problems and to not waste too much time.
+#### 3. Focusing on the core of the game was probably the most important part in getting things done fairly quick. I was distracted quite often and having my 3 rules written on a piece of paper next to me was very helpful in solving small problems and to not waste too much time.
 
 # How to start?
 A survival game is or can be very straight forward, but at the same time a lot of fun. So I listed what I want in my game:
