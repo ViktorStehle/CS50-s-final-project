@@ -31,18 +31,18 @@ Giving myself a 2-week-limit of working and studying was quite a task. Make a sm
 
 # How to start?
 A survival game is or can be very straight forward, but at the same time a lot of fun. So I listed what I want in my game:
-1: entity
-    1.1: Character
-    1.2: Box
-    1.3: Enemies
-    1.4: Tiles
-    1.5: Cloud
-    1.6: Portal
-2: Game
-3: Main
-4: Visual
-5: Share
-6: Game Over
+### 1: entity
+ #### 1.1: Character
+ #### 1.2: Box
+ #### 1.3: Enemies
+ #### 1.4: Tiles
+ #### 1.5: Cloud
+ #### 1.6: Portal
+### 2: Game
+### 3: Main
+### 4: Visual
+### 5: Share
+### 6: Game Over
 
 ### 1: The entity is meant to keep everything simple and keep all the pieces together inside. The entity gives shape to the elements and the values ​​they will end up using, and so on. First up is Entit:New() in this function you can create new tiles, objects and more and assign them basic values. Self is a part of LÖVE that allows you to refer to your own copy of an item like an enemy or a box where you can change various values. self.x and self.y are the display start of each element where to place them on the screen. Then we have the image to be displayed and where the image is coming from and the character's hitbox which is 25px wide and high. Lastly, you need to keep track of where the element should reset when a collision occurs to stop the elements from shaking and get a nice clean image. Strength is tracking how strong a character is for moving or immoble elements. tempStrength is an additional check to keep track of whether the element collides with an immoble element and therefore gets the extra strength for that duration of collision. Like a box hitting a wall while being pushed. BUT NOT ALWAYS! Only for the duration of the collision with the character. Gravity is set to make objects fall positively on the y and weight is the acceleration with which the item will fall. If the weight is zero, the element naturally remains on y, where it creates the illusion of levitation.
 
